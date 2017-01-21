@@ -1,5 +1,5 @@
 # springcoreDependencyInjectionByAnnotation
-This example is presents the basic concept of the Dependency injection by using annotations.
+This example is presents the basic concept of the Dependency injection by using Spring annotations.
 
 The technologies used are :
  - Spring 4.3.4
@@ -11,4 +11,5 @@ You can convert this example to an Eclipse IDE project by going to folder where 
 mvn eclipse:eclipse
 
 Get the sources of the example from the following GitHub url : https://github.com/codercocoon/springcoreDependencyInjectionByAnnotation.git
-Or Download a .zip file : 
+
+Or Download a .zip file : https://github.com/codercocoon/springcoreDependencyInjectionByAnnotation/archive/master.zip
