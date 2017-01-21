@@ -10,4 +10,5 @@ The technologies used are :
 You can convert this example to an Eclipse IDE project by going to folder where pom.xml is, and use the command :
 mvn eclipse:eclipse
 
-Get the sources of the example from GitHub
+Get the sources of the example from the following GitHub url : https://github.com/codercocoon/springcoreDependencyInjectionByAnnotation.git
+Or Download a .zip file : 
