@@ -7,7 +7,8 @@ The technologies used are :
  - JDK 1.8
  - Maven 3.3.9
 
-You can convert this example to an Eclipse IDE project by going to folder where pom.xml is, and use the command :
+You can convert this example to an Eclipse IDE project by going to folder where is the pom.xml is, and use the command :
+
 mvn eclipse:eclipse
 
 Get the sources of the example from the following GitHub url : https://github.com/codercocoon/springcoreDependencyInjectionByAnnotation.git
