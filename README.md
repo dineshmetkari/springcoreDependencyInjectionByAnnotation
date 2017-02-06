@@ -1,5 +1,5 @@
 # springcoreDependencyInjectionByAnnotation
-This example is presents the basic concept of the Dependency injection by using Spring annotations.
+This example presents the basic concept of the Dependency injection by using Spring annotations.
 
 The technologies used are :
  - Spring 4.3.4
